@@ -13,7 +13,13 @@ def get_ajbell_keyword(driver: WebDriver, data: list[dict]) -> list[dict]:
             get_with_backoff(driver, url)
         except:
             print("error: ", url)
+            continue
         keyword = find_element_or_none(wait, keyword_xpath_p)
+        if fund.get("isin") is None:
+            isin_xpath = '//p[@data-testid="isinValue"]'
+            isin = find_element_or_none(wait, isin_xpath)
+            if isin:
+                fund.update(dict(isin=isin.text))
         if keyword:
             # print(keyword.text.strip())
             first_part = driver.execute_script("""
