@@ -219,7 +219,6 @@ def parse_ajbell_data(data: list[dict], is_mf: bool) -> list[dict]:
     base = "https://www.ajbell.co.uk/market-research/"
     funds = []
     for fund in data:
-        print(fund)
         name = fund["name"]
         isin = fund.get("isin")
         if is_mf:
