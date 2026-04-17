@@ -198,7 +198,6 @@ def save_xlsx(
     wb = openpyxl.load_workbook(xlsx_out)
     ws = wb[sheet]
     for fund in funds:
-        print(fund)
         for idx, val in enumerate(cols):
             col = idx + 1
             row = fund.get("index")
