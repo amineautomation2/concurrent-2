@@ -219,11 +219,14 @@ def parse_ajbell_data(data: list[dict], is_mf: bool) -> list[dict]:
     base = "https://www.ajbell.co.uk/market-research/"
     funds = []
     for fund in data:
-        name = fund["name"]
-        isin = fund.get("isin")
-        if is_mf:
-            url = f'{base}FUND:{fund["sedol"]}'
-        else:
-            url = f'{base}{fund["ExchangeCode"]}:{fund["Symbol"]}'
-        funds.append(dict(name=name, isin=isin, url=url))
+        try:
+            name = fund["name"]
+            isin = fund.get("isin")
+            if is_mf:
+                url = f'{base}FUND:{fund["sedol"]}'
+            else:
+                url = f'{base}{fund["ExchangeCode"]}:{fund["Symbol"]}'
+            funds.append(dict(name=name, isin=isin, url=url))
+        except:
+            print("parse_ajbell_data error: ", fund)
     return funds
