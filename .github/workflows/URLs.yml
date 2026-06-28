@@ -30,7 +30,7 @@ jobs:
           git pull --rebase origin main
 
       - name: Fetch URLs
-        run: python main.py --url all
+        run: python main.py --url
 
       - name: Upload Spreadsheet
         uses: actions/upload-artifact@v6
