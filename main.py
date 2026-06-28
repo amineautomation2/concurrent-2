@@ -1,5 +1,6 @@
 import argparse
 import time
+
 from ajbell import ajbell_runner
 from ajbell.url import get_ajbell_url
 from utils import create_spreadsheet, delay, get_xlsx_filepath
@@ -14,12 +15,17 @@ def main():
     parser.add_argument("--max", type=str, help="max worker")
     parser.add_argument("--sheet", type=str, help="sheet name")
     parser.add_argument("--url", action="store_true", help="sheet name")
+    parser.add_argument("--fresh", action="store_true", help="new spreadsheet")
 
     args = parser.parse_args()
     xlsx_out = get_xlsx_filepath("ajbell.xlsx")
+
+    if args.fresh:
+        create_spreadsheet(
+            xlsx_out, ["Investment", "ETF", "MF"], ["Name", "ISIN", "URL", "Keyword"]
+        )
+
     if args.url:
-        create_spreadsheet(xlsx_out, ["Investment", "ETF", "MF"], [
-                           "Name", "ISIN", "URL", "Keyword"])
         sheet = args.url
         for sheet in ["Investment", "ETF", "MF"]:
             get_ajbell_url(sheet)
@@ -27,13 +33,13 @@ def main():
         return
 
     elif args.id and args.max and args.sheet:
-        ajbell_runner(id_worker=int(args.id),
-                      max_workers=int(args.max), sheet=args.sheet)
+        ajbell_runner(
+            id_worker=int(args.id), max_workers=int(args.max), sheet=args.sheet
+        )
         return
 
     elif args.sheet:
-        merge_csv_to_xlsx(
-            xlsx_out, ["name", "isin", "url", "keyword"], args.sheet)
+        merge_csv_to_xlsx(xlsx_out, ["name", "isin", "url", "keyword"], args.sheet)
         return
 
 

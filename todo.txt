@@ -1,0 +1,10 @@
+I think long-term its much better integrate with previous and just enqueue funds directly from ajbell screener, however it requires some code refactoring.
+But should be something like:
+1. enqueue name/url from fund type screener (entrypoint).
+2. get usual fund data(isin, keyword, holding date, holding name+weight) and enqueue top holdings url if available.
+3. get isin/ticker from holdings url.
+4. format and clean everything into 2 seperates files:
+-> ajbell.xlsx [IT,ETF,MF] name isin url keyword.
+-> ajbell_holdings [IT] isin, holding informations (We can add ETF and MF easily).
+5. ship output data by email.
+This design scales better and is an all-in-one solution.
