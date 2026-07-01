@@ -1,1 +1,238 @@
 index,name,isin,url,keyword,sheet
+7,21Shares Bitcoin ETP GBP,CH0454664001,https://www.ajbell.co.uk/market-research/LSE:ABTC,,ETF
+27,abrdn Physical Gold Shares ETF USD,US00326A1043,https://www.ajbell.co.uk/market-research/LSE:0IEE,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+47,Amundi Core GBP Corporate Bond ETF Dis,LU3122198321,https://www.ajbell.co.uk/market-research/LSE:GBBD,This share can be held in a Dealing account,ETF
+67,Amundi Core Stoxx Eurp 600 ETF Acc EUR,LU0908500753,https://www.ajbell.co.uk/market-research/MIL:MEUD,,ETF
+87,Amundi S&P World Utilities Scrn ETF Acc,IE000PMX0MW6,https://www.ajbell.co.uk/market-research/XETR:WELD,,ETF
+107,Amundi Glb Aggt Green Bd ETF Acc GBP,LU1563454310,https://www.ajbell.co.uk/market-research/LSE:CLIM,,ETF
+127,Amundi Glb Govt Inf-Ld Bd 1-10Y ETF Dis,LU1910939849,https://www.ajbell.co.uk/market-research/LSE:GIST,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+147,Amundi IS Core MSCI Europe ETF DR EUR GBP,LU1737652310,https://www.ajbell.co.uk/market-research/LSE:CE2D,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+167,Amundi IS MSCI Em Latin America ETF-C $ GBP,LU1681045297,https://www.ajbell.co.uk/market-research/LSE:ALAG,,ETF
+187,Amundi IS MSCI World Swap ETF USD Acc USD,LU1681043672,https://www.ajbell.co.uk/market-research/LSE:CW8U,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+207,Amundi US Treasury Bd 0-1Y ETF ACC USD,LU2182388665,https://www.ajbell.co.uk/market-research/LSE:PR1T,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+227,Amundi MSCI China ETF Acc,LU1841731745,https://www.ajbell.co.uk/market-research/LSE:LCCN,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+247,Amundi MSCI EM Asia ESG Brd TrnstnETFAcc,LU1781541849,https://www.ajbell.co.uk/market-research/LSE:LCAS,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+267,Amundi MSCI Europe ESGBrdTrnstnETFDREURC GBP,LU1681042609,https://www.ajbell.co.uk/market-research/LSE:CEUR,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+287,Amundi MSCI Millennials ETF Acc EUR,LU2023678449,https://www.ajbell.co.uk/market-research/MIL:MILL,,ETF
+307,Amundi MSCI Robotics & AI ETF Acc USD,LU1861132840,https://www.ajbell.co.uk/market-research/XAMS:GOAI,,ETF
+327,Amundi MSCI Turkey ETF Acc USD,LU1900067601,https://www.ajbell.co.uk/market-research/LSE:TURU,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+347,Amundi MSCI World Info Tech ETF USD Acc GBP,LU0533033741,https://www.ajbell.co.uk/market-research/LSE:TNOG,,ETF
+367,Amundi Prime Global ETF Acc,IE0009DRDY20,https://www.ajbell.co.uk/market-research/XETR:F50B,,ETF
+387,Amundi Stoxx Europe Defense UCITS ETFAcc GBP,LU3038520774,https://www.ajbell.co.uk/market-research/LSE:DEFE,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+407,Amundi US Treasury 3-7Y ETF Dist GBP,LU1407888996,https://www.ajbell.co.uk/market-research/LSE:U37G,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+427,ARK Innovation ETF A USD Acc GBP,IE000GA3D489,https://www.ajbell.co.uk/market-research/LSE:ARCK,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+447,Avantis Pacific Equity ETF USD Acc GBP,IE000T62NEO6,https://www.ajbell.co.uk/market-research/LSE:AVEP,This share can be held in a Dealing account,ETF
+467,BNP Paribas EASY ECPI GlbESGInfrasETFUSD,IE0006O3TTP9,https://www.ajbell.co.uk/market-research/LSE:ENGU,This share can be held in a Dealing account,ETF
+487,BNPP E JPM Tltd EMU Govt Bd IG10Y+ETFCap EUR,LU2742533636,https://www.ajbell.co.uk/market-research/LSE:GOV1,This share can be held in a Dealing account,ETF
+507,BNPP E USD Corp Bd SRI Fssl Fr ETF $ Cap USD,LU2616774076,https://www.ajbell.co.uk/market-research/LSE:USCB,This share can be held in a Dealing account,ETF
+527,CoinShares XBT Bitcoin Tracker EUR ETN EUR,SE0007525332,https://www.ajbell.co.uk/market-research/LSE:0PTN,,ETF
+547,Defiance Memory ETF Acc ETF Share Cl USD,IE000CEUZ052,https://www.ajbell.co.uk/market-research/LSE:DRAM,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and SIPP",ETF
+567,Fidelity Emerg Mkts Qual Inc ETF USD Inc GBP,IE00BYSX4739,https://www.ajbell.co.uk/market-research/LSE:FEMD,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+587,Fidelity Glb Eq Rsrch Enh PAB ETF $ Acc GBP,IE000TYGG0N6,https://www.ajbell.co.uk/market-research/LSE:FRP2,This share can be held in a Dealing account,ETF
+607,Fidelity Physical Bitcoin ETP GBP,XS2434891219,https://www.ajbell.co.uk/market-research/LSE:FBTG,"This share can be held in a Dealing account, SIPP and Dividend reinvestment",ETF
+627,Fidelity USD HY Corp BdRshEnhPABETF£HAcc,IE000IKCYI88,https://www.ajbell.co.uk/market-research/LSE:FYUP,This share can be held in a Dealing account and SIPP,ETF
+647,First Trust Dow Jones Intl Intnt ETF A,IE00BT9PVG14,https://www.ajbell.co.uk/market-research/LSE:FDIU,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+667,First Trust Glb Cap Strn ESG Ldrs ETF A$ GBP,IE00BKPSPT20,https://www.ajbell.co.uk/market-research/LSE:FCSG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+687,First Trust Nasdaq Cybscty ETF A USD Acc,IE00BF16M727,https://www.ajbell.co.uk/market-research/LSE:CIBR,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+707,First Trust US Lg Cp Cor AlphaDEX® A USD GBP,IE00B8X9NW27,https://www.ajbell.co.uk/market-research/LSE:FEX,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+727,First Trust Vst US Eq Bffr ETF Jul A$Acc GBP,IE000YJBT6I5,https://www.ajbell.co.uk/market-research/LSE:JULF,This share can be held in a Dealing account,ETF
+747,"FranklinAI,Metaverse&BlockchainETFUSDAcc GBP",IE000IM4K4K2,https://www.ajbell.co.uk/market-research/LSE:METU,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+767,Franklin FTSE China UCITS ETF GBP,IE00BHZRR147,https://www.ajbell.co.uk/market-research/LSE:FRCH,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+787,Franklin Future of Hlth & Wellness ETF,IE0003WEWAX4,https://www.ajbell.co.uk/market-research/LSE:FOHW,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+807,Franklin S&P 500 Screened ETF GBP,IE0006FAD976,https://www.ajbell.co.uk/market-research/LSE:SPXG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+827,Franklin USD Invmt Grd CorpBdETF,IE00BFWXDX52,https://www.ajbell.co.uk/market-research/LSE:FLUC,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+847,Global X Bitcoin ETP GBP,GB00BLBDZV05,https://www.ajbell.co.uk/market-research/LSE:BTCX,,ETF
+867,Global X Disruptive Materials ETF $ Acc GBP,IE000FP52WM7,https://www.ajbell.co.uk/market-research/LSE:DMAG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+887,Global X Hydrogen ETF USD Acc,IE0002RPS3K2,https://www.ajbell.co.uk/market-research/LSE:HYGN,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+907,Glbl X S&P 500® Qt Buffer ETF A USD Acc GBP,IE000LSRKCB4,https://www.ajbell.co.uk/market-research/LSE:SQBP,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+927,Global X Uranium ETF,US37954Y8710,https://www.ajbell.co.uk/market-research/ARCA:URA,This share can be held in a Dealing account and SIPP,ETF
+947,GS Alp Enh Eurp Eq Actv ETF EUR (Acc) GBP,IE000RITWOD4,https://www.ajbell.co.uk/market-research/LSE:GQEU,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+967,Goldman Sachs USD HY Bd Act ETF USD Dist,IE0006B9CPY7,https://www.ajbell.co.uk/market-research/LSE:GSHY,This share can be held in a Dealing account,ETF
+987,GraniteShares 3x Long AMD Daily ETC GBP,XS3075487713,https://www.ajbell.co.uk/market-research/LSE:LAM3,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, SIPP and Dividend reinvestment",ETF
+1007,GraniteShares 3x Long Microsoft Dly ETP,XS2662640627,https://www.ajbell.co.uk/market-research/LSE:3LMS,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and SIPP",ETF
+1027,GraniteShares 3x Long Palantir Daily ETC GBP,XS2856105833,https://www.ajbell.co.uk/market-research/LSE:PAL3,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, SIPP and Dividend reinvestment",ETF
+1047,GraniteShares 3x Short Alibaba Daily ETP GBP,XS2842095759,https://www.ajbell.co.uk/market-research/LSE:SAA3,,ETF
+1067,GraniteShares 3x Short Microsoft Dly ETP,XS2722160707,https://www.ajbell.co.uk/market-research/LSE:3SMS,This share can be held in a Dealing account,ETF
+1087,GraniteShares 3x Shrt Rolls-Royce Dl ETC,XS3081791413,https://www.ajbell.co.uk/market-research/LSE:3SRR,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, SIPP and Dividend reinvestment",ETF
+1107,Future of Defence ETF Acc GBP,IE000OJ5TQP4,https://www.ajbell.co.uk/market-research/LSE:NATP,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1127,HSBC Asia Pac Ex Jpn Scrn Eq ETF $ Inc GBP,IE000P1WR081,https://www.ajbell.co.uk/market-research/LSE:HSASLN,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1147,HSBC FTSE 250 ETF,IE00B64PTF05,https://www.ajbell.co.uk/market-research/LSE:HMCX,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1167,HSBC Global Corporate Bond ETF CH USD,IE000EHRXW91,https://www.ajbell.co.uk/market-research/LSE:HCBU,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+1187,HSBC MSCI AC APACExJpnClmtPrsAlgndETFUSD,IE000XFORJ80,https://www.ajbell.co.uk/market-research/LSE:HPAJ,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+1207,HSBC MSCI EM Islamic Scrn Cpd ETF USDAcc GBP,IE0009BC6K22,https://www.ajbell.co.uk/market-research/LSE:HIES,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1227,HSBC MSCI Japan Islamic Scrn ETF USD Acc GBP,IE0001XCFC82,https://www.ajbell.co.uk/market-research/LSE:HIJS,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1247,HSBC MSCI USA Islamic Scrn ETF USD Acc GBP,IE000I5NV504,https://www.ajbell.co.uk/market-research/LSE:HIUS,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1267,HSBC Multi Factor Worldwide Eq ETF GBP,IE00BKZGB098,https://www.ajbell.co.uk/market-research/LSE:HWWA,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1287,HSBC S&P 500 ETF CHF Hedged (Acc),IE000WMIYI33,https://www.ajbell.co.uk/market-research/LSE:HSPC,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+1307,IncomeShares 75/10/15 Multi-Asset Gr ETP,XS3337374774,https://www.ajbell.co.uk/market-research/LSE:GRWY,This share can be held in a Dealing account,ETF
+1327,IncomeShares ASML (ASML) Options ETP,XS3299469323,https://www.ajbell.co.uk/market-research/LSE:ASMY,This share can be held in a Dealing account,ETF
+1347,IncomeShares Galaxy Dgtl (GLXY) Opts ETP,XS3299468945,https://www.ajbell.co.uk/market-research/LSE:GLXY,This share can be held in a Dealing account,ETF
+1367,IncomeShares Micron (MU) Options ETP,XS3337374691,https://www.ajbell.co.uk/market-research/LSE:MUIY,This share can be held in a Dealing account,ETF
+1387,IncomeShares Robinhood (HOOD)Options ETP,XS3337099884,https://www.ajbell.co.uk/market-research/LSE:HOOY,This share can be held in a Dealing account,ETF
+1407,IncomeShares Uranium+ Yield ETP,XS3337373701,https://www.ajbell.co.uk/market-research/LSE:URNY,This share can be held in a Dealing account,ETF
+1427,Invesco Emerging Markets Enh Eq ETF $Acc,IE000U07IGB1,https://www.ajbell.co.uk/market-research/LSE:IQMA,This share can be held in a Dealing account,ETF
+1447,Invesco FTSE All-World ETF Acc GBP,IE000716YHJ7,https://www.ajbell.co.uk/market-research/LSE:FWRG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1467,Invesco JPX-Nikkei 400 ETF GBP,IE00BPRCH686,https://www.ajbell.co.uk/market-research/LSE:S400,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1487,InvescoBulletShrs2028USDCorpBdETFUSDDist,IE000A0RC215,https://www.ajbell.co.uk/market-research/LSE:BS28,This share can be held in a Dealing account,ETF
+1507,Invesco Defence Innovation ETF EUR,IE000BRM9046,https://www.ajbell.co.uk/market-research/XETR:IVDF,,ETF
+1527,Invesco Glb Corp Bd ESGClmTrtnETF£PfHDis,IE000P2WSBY0,https://www.ajbell.co.uk/market-research/LSE:GBEG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1547,Invesco S&P 500 Quality ETF Acc,IE000E6TPCH9,https://www.ajbell.co.uk/market-research/LSE:SPQA,This share can be held in a Dealing account,ETF
+1567,Invesco USD AAA CLO ETF Acc,IE0008GO35B5,https://www.ajbell.co.uk/market-research/LSE:ICLU,This share can be held in a Dealing account,ETF
+1587,Invesco MDAX® ETF Acc GBP,IE00BHJYDV33,https://www.ajbell.co.uk/market-research/LSE:PEAM,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+1607,Invesco MSCI Europe ETF GBP,IE00B60SWY32,https://www.ajbell.co.uk/market-research/LSE:MXEU,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+1627,Invesco MSCI World Eql Wght ETF Acc USD,IE000OEF25S1,https://www.ajbell.co.uk/market-research/LSE:MWEQ,This share can be held in a Dealing account,ETF
+1647,Invesco Physical Gold ETC GBP,IE00B579F325,https://www.ajbell.co.uk/market-research/LSE:SGLP,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+1667,Invesco Russell 2000 ETF,IE00B60SX402,https://www.ajbell.co.uk/market-research/LSE:RTYS,,ETF
+1687,Invesco S&P SmallCap 600 ETF,IE00BH3YZ803,https://www.ajbell.co.uk/market-research/LSE:USML,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+1707,Invesco US Trs Bd 0-1 Yr ETF USD Dis GBP,IE00BKWD3C98,https://www.ajbell.co.uk/market-research/LSE:TRIS,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+1727,Invesco US Treasury Bond ETF USD Dis GBP,IE00BF2GFH28,https://www.ajbell.co.uk/market-research/LSE:TRSG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1747,iShares $ Corp Bond Intr Rt H ETF $ Dist,IE00BCLWRB83,https://www.ajbell.co.uk/market-research/LSE:LQDH,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+1767,iShares $ Short Dur Corp Bd ETF GBPHDist,IE000PECRUX8,https://www.ajbell.co.uk/market-research/LSE:SDGH,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+1787,iShares $ Treasury Bd 1-3yr ETF EURH Acc,IE00BDFK1573,https://www.ajbell.co.uk/market-research/LSE:IBTE,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+1807,iShares $ Treasury Bond ETF GBP H Dist,IE00BKTN1T54,https://www.ajbell.co.uk/market-research/LSE:GOVP,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1827,iShares € Corp Bond ex-Fncl ETF EUR Dist GBP,IE00B4L5ZG21,https://www.ajbell.co.uk/market-research/LSE:EEXF,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1847,iShares € Inflat Lnkd GovtBd ETF EUR Acc GBP,IE00B0M62X26,https://www.ajbell.co.uk/market-research/LSE:IBCI,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1867,iShares BIC 50 ETF USD Dist USD,IE00B1W57M07,https://www.ajbell.co.uk/market-research/LSE:DBRC,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+1887,iShares Core € Corp Bond ETF EUR Dist,IE00B3F81R35,https://www.ajbell.co.uk/market-research/LSE:IEAC,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+1907,iShares Cor MSCI Eurp UCITS ETF EUR Dist GBP,IE00B1YZSC51,https://www.ajbell.co.uk/market-research/LSE:IMEU,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1927,iShares Core S&P 500 ETF USD Dist GBX,IE0031442068,https://www.ajbell.co.uk/market-research/CHIX:IUSAl,,ETF
+1947,iShares Dow Jones Glb Ldrs Scrn ETF $Acc,IE00B57X3V84,https://www.ajbell.co.uk/market-research/LSE:IGSU,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+1967,iShares Edge MSCI USA Momt Fac ETF $ Acc GBP,IE00BD1F4N50,https://www.ajbell.co.uk/market-research/LSE:IUMF,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+1987,iShares Edge S&P 500 Min Vol ETF USD Acc,IE00B6SPMN59,https://www.ajbell.co.uk/market-research/LSE:SPMV,,ETF
+2007,iShares Europe Eq Enh Actv ETF EUR Acc GBP,IE00000EF730,https://www.ajbell.co.uk/market-research/LSE:EUEE,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+2027,iShares Global Arspc & Dfnc ETF USD Acc USD,IE000U9ODG19,,,ETF
+2047,iShares Global HY Corp Bd ETF USD H Acc USD,IE000KB8X7I9,https://www.ajbell.co.uk/market-research/LSE:HYLH,This share can be held in a Dealing account,ETF
+2067,iShares iBonds Dec2028Trm$CorpETFGBPHInc,IE000VVQWC23,https://www.ajbell.co.uk/market-research/LSE:D28G,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+2087,iShares JP Morgan $ EM Bd ETF USD Acc EUR,IE00BYXYYK40,https://www.ajbell.co.uk/market-research/LSE:JPEE,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+2107,iShares Lithium & Bttry Prdcrs ETF $ Acc GBP,IE000WDG5795,https://www.ajbell.co.uk/market-research/LSE:LITM,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+2127,iShares MSCI EM CTB Enh ESG ETF USD Acc GBP,IE00BHZPJ239,https://www.ajbell.co.uk/market-research/LSE:EDG2,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+2147,iShares MSCI EMU Scrn ETF EUR Acc GBP,IE00BFNM3B99,https://www.ajbell.co.uk/market-research/LSE:SAUM,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+2167,iShares MSCI Europe Scrn ETF EURDist GBP,IE00BFNM3F38,https://www.ajbell.co.uk/market-research/LSE:SDUE,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+2187,iShares MSCI Japan USD Hedged ETF Acc,IE00BCLWRG39,https://www.ajbell.co.uk/market-research/LSE:IJPD,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+2207,iShares MSCI USA CTB Enh ESGETFGBPHdgInc,IE000LZ4F7J0,https://www.ajbell.co.uk/market-research/LSE:EDMG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+2227,iShares MSCI USA Swap ETF USD Acc GBP,IE0002W8NB38,https://www.ajbell.co.uk/market-research/LSE:MUSD,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+2247,iShares MSCI Wld Md-Cp Eq Wgt UCITS ETF GBP,IE00BP3QZD73,https://www.ajbell.co.uk/market-research/LSE:IWFS,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+2267,iShares Nasdaq US Biotech ETF USD Acc GBP,IE00BYXG2H39,https://www.ajbell.co.uk/market-research/LSE:BTEK,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+2287,iShares S&P 500 3% Capped ETF USD Dist GBP,IE000AY6KP29,https://www.ajbell.co.uk/market-research/LSE:SPC3,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+2307,iShares S&P 500 Info Tech Sect ETF$Acc GBP,IE00B3WJKG14,https://www.ajbell.co.uk/market-research/LSE:IITU,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Regular investment",ETF
+2327,iShares Space Technologies ETF USD Acc GBP,IE000A9G9R73,https://www.ajbell.co.uk/market-research/LSE:STRR,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+2347,iShares STOXX €ope EqMltfctUCITSETF€Dist USD,IE00BG13YL86,https://www.ajbell.co.uk/market-research/LSE:IFSD,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+2367,iShares US Aggregate Bond ETF USD Dist GBP,IE00B44CGS96,https://www.ajbell.co.uk/market-research/LSE:SUAG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+2387,iShares € Govt Bond 1-3yr ETF EUR Acc EUR,IE00B3VTMJ91,https://www.ajbell.co.uk/market-research/LSE:CBE3,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+2407,iShares MSCI EM Asia ETF USD Acc GBP,IE00B5L8K969,https://www.ajbell.co.uk/market-research/LSE:CEA1,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+2427,Janus Henderson EUR AAA CLOActvCrETF€Acc GBP,LU2941599081,https://www.ajbell.co.uk/market-research/LSE:JCLG,This share can be held in a Dealing account,ETF
+2447,JH US Shrt Dur Hi Yld Act Cor ETF $ Acc,IE0007W7MZL0,https://www.ajbell.co.uk/market-research/LSE:JSHY,This share can be held in a Dealing account,ETF
+2467,JPM BetaBuilders UK Gilt 1-5 yrETFGBPInc,IE00BD9MMC32,https://www.ajbell.co.uk/market-research/LSE:JG15,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+2487,JPM EUR High Yield Bd Act ETF EUR Dis,IE000YSJPNV8,https://www.ajbell.co.uk/market-research/LSE:JEYE,This share can be held in a Dealing account,ETF
+2507,JPM Global Aggt Bd Act UC ETF USD Acc,IE0006MM8VN6,https://www.ajbell.co.uk/market-research/LSE:JAGA,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+2527,JPM Nasdaq Eq Prm Inc Act ETF USD Acc,IE000N6I8IU2,https://www.ajbell.co.uk/market-research/LSE:JEQA,This share can be held in a Dealing account,ETF
+2547,JPM US RshEnhIdxEqSRIPrsAlgnActETFUSDInc,IE0002UMVXQ1,https://www.ajbell.co.uk/market-research/LSE:JSUD,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+2567,JPM EUR Aggregate Bond Act ETF EUR Dist,IE0008QIFH42,https://www.ajbell.co.uk/market-research/LSE:JEGG,This share can be held in a Dealing account,ETF
+2587,JPM Global Govt Bd Act ETF USD H Acc,IE000WFXD0F2,https://www.ajbell.co.uk/market-research/LSE:JGAV,This share can be held in a Dealing account,ETF
+2607,JPM Japan Rsrch Enh Eq Act ETF USD Acc GBP,IE00BP2NF958,https://www.ajbell.co.uk/market-research/LSE:JRJE,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+2627,JPM US Growth Act UC ETF USD Acc GBP,IE0005CH3U28,https://www.ajbell.co.uk/market-research/LSE:JGOR,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+2647,JPM USD High Yield Bond Act ETF USD dist,IE000R88UVN6,https://www.ajbell.co.uk/market-research/LSE:JPYU,This share can be held in a Dealing account,ETF
+2667,KraneShares CSI China Intrnt ETF USD Acc,IE0009ZB3ZX2,https://www.ajbell.co.uk/market-research/LSE:KWBI,This share can be held in a Dealing account,ETF
+2687,L&G Asia Pacific ex JpnESGParisAlgndETF GBP,IE000Z9UVQ99,https://www.ajbell.co.uk/market-research/LSE:RIAG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+2707,L&G Ecommerce Logistics ETF GBP,IE00BF0M6N54,https://www.ajbell.co.uk/market-research/LSE:ECOG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+2727,L&G GBP Corp Bd 0-5 Yr Scrn ETF GBP Dist,IE00BLRPQN90,https://www.ajbell.co.uk/market-research/LSE:GBP5,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+2747,L&G India INR Government Bd ETF USD Dis GBP,IE00BL6K6H97,https://www.ajbell.co.uk/market-research/LSE:TIGG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+2767,L&G New Energy Commodities ETFUSDAcc USD,IE000BLN64M9,https://www.ajbell.co.uk/market-research/LSE:ENTR,This share can be held in a Dealing account and SIPP,ETF
+2787,L&G USD Corporate Bond Scrn ETF USD Dis GBP,IE00BLRPRD67,https://www.ajbell.co.uk/market-research/LSE:USDG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+2807,Leverage Shares -1x NVIDIA ETP Secs GBP,XS2944886188,https://www.ajbell.co.uk/market-research/LSE:SNVD,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, SIPP and Dividend reinvestment",ETF
+2827,Leverage Shares -1x Short Square ETP Scs,XS2297552932,https://www.ajbell.co.uk/market-research/LSE:SQS,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and JISA",ETF
+2847,Leverage Shares 2x Amazon ETP Secs A,IE00BF03XH11,https://www.ajbell.co.uk/market-research/LSE:AMZ2,,ETF
+2867,Lvrg Shrs 2x Micron Technology ETP Secs,IE00BKT66K01,https://www.ajbell.co.uk/market-research/LSE:MU2,This share can be held in a Dealing account,ETF
+2887,Leverage Shares 2x Tesla ETP Secs GBP,IE00BK5BZY66,https://www.ajbell.co.uk/market-research/LSE:2TSL,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and SIPP",ETF
+2907,Leverage Shares 3x AMD ETP Scs EUR,XS2337090422,,,ETF
+2927,Leverage Shares 3x Disney ETP Scs EUR,XS2335553801,,,ETF
+2947,Leverage Shares 3x Lg Blckchn Ldrs ETP-A,XS3299470842,https://www.ajbell.co.uk/market-research/LSE:BLC3,This share can be held in a Dealing account,ETF
+2967,Lvrg Shrs 3x Long Cnbs (COIN) ETP Scs GBP,XS2399367254,https://www.ajbell.co.uk/market-research/LSE:3CON,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and SIPP",ETF
+2987,Leverage Shares 3x Long Gold ETP Scs,XS2472195101,https://www.ajbell.co.uk/market-research/LSE:GLD3,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and SIPP",ETF
+3007,Leverage Shares 3x Long Japan ETP Scs EUR,XS2472196844,https://www.ajbell.co.uk/market-research/LSE:3JPE,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and JISA",ETF
+3027,Leverage Shares 3x Long NIO ETP Scs,XS2970736489,https://www.ajbell.co.uk/market-research/LSE:NIO3,This share can be held in a Dealing account,ETF
+3047,Leverage Shares 3x Long Oklo ETP-A GBP,XS3299470503,https://www.ajbell.co.uk/market-research/LSE:3OKL,This share can be held in a Dealing account,ETF
+3067,Leverage Shares 3x Long Silver ETP Scs,XS2472195952,https://www.ajbell.co.uk/market-research/LSE:SLV3,"This share can be held in a Dealing account, Stocks and shares ISA and Lifetime ISA",ETF
+3087,Lvrg Shrs 3x Long Total World ETP Scs GBP,XS2399364822,https://www.ajbell.co.uk/market-research/LSE:3VT,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and SIPP",ETF
+3107,Leverage Shares 3x Netflix ETP Secs GBP,XS2675739135,https://www.ajbell.co.uk/market-research/LSE:3NFL,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, SIPP and Dividend reinvestment",ETF
+3127,Lvrg Shrs 3x Salesforce.Com ETP Secs GBP,IE00BK5BZT14,https://www.ajbell.co.uk/market-research/LSE:3CRM,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, SIPP and Dividend reinvestment",ETF
+3147,Leverage Shares -3x Short China ETP Scs,XS2472196505,https://www.ajbell.co.uk/market-research/LSE:CHNS,"This share can be held in a Dealing account, Stocks and shares ISA and Lifetime ISA",ETF
+3167,Lvrg Shrs -3x Short Germany 40 ETP Scs,XS2472332290,https://www.ajbell.co.uk/market-research/LSE:SGYE,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and JISA",ETF
+3187,Lvrg Shrs -3x Short Microsoft ETP Scs,XS2472334239,https://www.ajbell.co.uk/market-research/LSE:MS3S,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and SIPP",ETF
+3207,Leverage Shares 3x Short Silver ETC,XS3231934442,https://www.ajbell.co.uk/market-research/LSE:SLVS,This share can be held in a Dealing account,ETF
+3227,Leverage Shares -3x Short Uranium ETP GBP,XS3299461346,https://www.ajbell.co.uk/market-research/LSE:SURA,This share can be held in a Dealing account,ETF
+3247,Leverage Shares 5x Long EUR STOXX50ETP-A GBP,XS3337013166,https://www.ajbell.co.uk/market-research/LSE:SXS5,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+3267,Leverage Shares 5x Long S&P 500 ETP Scs EUR,XS2399364582,,,ETF
+3287,Lloyd Focused Equity ETF USD Acc,IE000NYVK0R8,https://www.ajbell.co.uk/market-research/LSE:FEP,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+3307,LS FAANG+ ETP GBP,XS2595675724,https://www.ajbell.co.uk/market-research/LSE:FAAN,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, SIPP and Dividend reinvestment",ETF
+3327,Market Access Rogers Intl Cmdty ETF GBP,LU0249326488,https://www.ajbell.co.uk/market-research/LSE:RICI,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+3347,Onyx Spot Return Crude Oil ETC USD,XS3035884850,https://www.ajbell.co.uk/market-research/LSE:OIL,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+3367,PIMCO Advantage Global Gov Bd ETF £ HAcc,IE000KXNPEV8,https://www.ajbell.co.uk/market-research/LSE:GOVZ,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+3387,REX Tech Innovation Premium Inc ETF Dis,IE000HF69TA9,https://www.ajbell.co.uk/market-research/LSE:FEPI,This share can be held in a Dealing account,ETF
+3407,Robeco 3D Glb Enh Idx Crdts ETF USD Acc GBP,IE000JJMOWY0,https://www.ajbell.co.uk/market-research/LSE:3DCB,This share can be held in a Dealing account,ETF
+3427,Saturna Al-Kawthar Glbl Fcs Eq ETF GBP,IE00BMYMHS24,https://www.ajbell.co.uk/market-research/LSE:AMAP,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+3447,Sprott Junior Uranium Miners ETF USD Acc EUR,IE00075IVKF9,https://www.ajbell.co.uk/market-research/XETR:U8NJ,,ETF
+3467,Stt Strt SPDR Blmbrg 1-3Yr EUR GovtBdETF EUR,IE00B6YX5F63,https://www.ajbell.co.uk/market-research/LSE:EU13,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+3487,Stt Strt SPDR Blmbrg Glb Aggr BdETF £H GBP,IE00BF1QPJ56,https://www.ajbell.co.uk/market-research/LSE:GLAB,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+3507,State Street SPDR Commodity ETF USDUnAcc GBP,IE0006HIE7H2,https://www.ajbell.co.uk/market-research/LSE:SCMD,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+3527,Stt Strt SPDR MStarMlt-AsstGlbInfrsETF,IE00BQWJFQ70,https://www.ajbell.co.uk/market-research/LSE:MAGI,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+3547,Stt Strt SPDR MSCI World FinlETF $ Acc,IE00BYTRR970,https://www.ajbell.co.uk/market-research/LSE:WFIN,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+3567,Stt Strt SPDR S&P 500ETF,IE00B6YX5C33,https://www.ajbell.co.uk/market-research/LSE:SPY5,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+3587,Stt Strt SPDR S&PUSDivAristocratsScrnETF GBP,IE00BYTH5R14,https://www.ajbell.co.uk/market-research/LSE:UGDV,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+3607,Stt Strt SPDR® MSCI Europe CnsmrDscrtETF GBP,IE00BKWQ0C77,https://www.ajbell.co.uk/market-research/LSE:CDCE,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+3627,TheRoyalMintRspnsblySrcdPhysclGldGBPHETC,XS2892961827,https://www.ajbell.co.uk/market-research/LSE:RMPH LN,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, SIPP and Dividend reinvestment",ETF
+3647,UBS BBG USD EM Sovereign ETF USD dis GBP,LU1324516050,https://www.ajbell.co.uk/market-research/LSE:SBEM,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+3667,UBS Core EURO STOXX 50 ETF EUR dis EUR,LU0136234068,https://www.ajbell.co.uk/market-research/LSE:UB00,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+3687,UBS Core MSCI USA ETF USD acc USD,IE00BD4TXS21,https://www.ajbell.co.uk/market-research/LSE:4UBB,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+3707,UBS Factor MSCI EMU QualityScrnETFEURdis GBP,LU1215451524,https://www.ajbell.co.uk/market-research/LSE:UD04,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+3727,UBS MSCI Australia ETF AUD acc CHF,IE00BD4TY451,https://www.ajbell.co.uk/market-research/LSE:0Y4F,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+3747,UBS MSCI Japan Socially Rspn ETF JPY acc GBP,LU1230563022,https://www.ajbell.co.uk/market-research/LSE:JPSO,This share can be held in a Dealing account,ETF
+3767,UBS MSCI World ex Mega CapUCITSETFUSDacc GBP,IE0002THYAT9,https://www.ajbell.co.uk/market-research/LSE:WXMC,This share can be held in a Dealing account,ETF
+3787,UBS S&P Div Aristocrats ESG E ETF USDdis EUR,IE00BMP3HG27,https://www.ajbell.co.uk/market-research/LSE:0Y5Z,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+3807,VanEck Em Mkts HY Bd ETF A USD GBP,IE00BF541080,https://www.ajbell.co.uk/market-research/LSE:HYGB,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+3827,VanEck Morningstar DevMrkts Div Lead ETF GBP,NL0011683594,https://www.ajbell.co.uk/market-research/LSE:TDGB,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+3847,VanEck Oil Services ETF A USD Acc,IE000NXF88S1,https://www.ajbell.co.uk/market-research/LSE:OIHV,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+3867,VanEck World Equal Weight Scrn UCITS ETF GBP,NL0010408704,https://www.ajbell.co.uk/market-research/LSE:TSGB,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+3887,Vanguard EUR Corp Bd ETF EUR Acc GBP,IE00BGYWT403,https://www.ajbell.co.uk/market-research/LSE:VECA,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+3907,Vanguard FTSE Dev AsiaPac exJpn ETF $Dis,IE00B9F5YL18,https://www.ajbell.co.uk/market-research/LSE:VDPX,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+3927,Vanguard FTSE Japan ETF $Dis GBP,IE00B95PGT31,https://www.ajbell.co.uk/market-research/LSE:VJPN,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+3947,Vanguard S&P 500 UCITS ETF,IE00B3XXRP09,https://www.ajbell.co.uk/market-research/LSE:VUSD,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+3967,Vanguard USD Corp Bd ETF GBP H Acc,IE00BGYWFN19,https://www.ajbell.co.uk/market-research/LSE:VGPA,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+3987,WisdomTree Agriculture L/D ETC,JE00B24DMK23,https://www.ajbell.co.uk/market-research/LSE:FAGR,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and SIPP",ETF
+4007,WisdomTree Blockchain UCITS ETF USD Acc GBP,IE000940RNE6,https://www.ajbell.co.uk/market-research/LSE:BKCN,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+4027,WisdomTree Broad Commodities L/ D ETC,JE00B24DMC49,https://www.ajbell.co.uk/market-research/LSE:FAIG,This share can be held in a Dealing account and SIPP,ETF
+4047,WisdomTree Copper IE ETC,XS2602441086,https://www.ajbell.co.uk/market-research/LSE:COPR,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and SIPP",ETF
+4067,WisdomTree EM ex-St-OwndEntrprESGScrnETF,IE00BM9TSP27,https://www.ajbell.co.uk/market-research/LSE:XSOE,,ETF
+4087,WisdomTree EURO STOXX 50® 3x Dl Shrt ETP,XS3306517502,https://www.ajbell.co.uk/market-research/LSE:3EUS,This share can be held in a Dealing account,ETF
+4107,WisdomTree Europe SmallCap Div ETF - Acc,IE00BDF16114,https://www.ajbell.co.uk/market-research/LSE:DFEA,,ETF
+4127,WisdomTree Gasoline ETC,GB00B15KXW40,https://www.ajbell.co.uk/market-research/LSE:UGAS,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and SIPP",ETF
+4147,WisdomTree Global Value ETF - USD Acc,IE000D1017N2,https://www.ajbell.co.uk/market-research/LSE:WTVG,This share can be held in a Dealing account,ETF
+4167,WisdomTree Industrial Mtls-GBP Dl H ETC,JE00B63MJ075,https://www.ajbell.co.uk/market-research/LSE:PIMT,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, SIPP and Dividend reinvestment",ETF
+4187,WisdomTree Long JPY Short USD,JE00B68GSP26,https://www.ajbell.co.uk/market-research/LSE:LJPY,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and SIPP",ETF
+4207,WisdomTree Natural Gas 2x Dl Lvrgd ETC,JE00BDD9Q956,https://www.ajbell.co.uk/market-research/LSE:LNGA,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA and SIPP",ETF
+4227,WisdomTree PHLX Semiconductor 3x Dl Shrt,XS3091646797,https://www.ajbell.co.uk/market-research/LSE:SC3S,This share can be held in a Dealing account,ETF
+4247,WisdomTree Physical Swiss Gold ETC GBP,JE00B588CD74,https://www.ajbell.co.uk/market-research/LSE:SGBX,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+4267,WisdomTree Short EUR Long GBP 3x Dl,JE00B3W0MY68,https://www.ajbell.co.uk/market-research/LSE:SUP3,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, SIPP and Dividend reinvestment",ETF
+4287,WisdomTree Space Economy ETF USD Acc GBP,IE000VDH1PG3,https://www.ajbell.co.uk/market-research/LSE:WSPG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+4307,WisdomTree Tech Megatrends ETF USD Acc GBP,IE0007Z28IJ7,https://www.ajbell.co.uk/market-research/LSE:TMGG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+4327,WisdomTree US Quality Growth ETF USD Acc GBP,IE000YGEAK03,https://www.ajbell.co.uk/market-research/LSE:QGRP,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+4347,WisdomTree WTI Crude Oil 3x Daily Short,XS2819844387,https://www.ajbell.co.uk/market-research/LSE:3OIS,This share can be held in a Dealing account,ETF
+4367,Xtrackers EM Net Zero PAB ETF 1C,IE000TZT8TI0,https://www.ajbell.co.uk/market-research/LSE:XEMN LN,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+4387,X Global Equity Top Active ETF GBP,IE000X4A4GV2,https://www.ajbell.co.uk/market-research/LSE:XTAX,This share can be held in a Dealing account,ETF
+4407,Xtrackers ESG Global Govt Bd ETF 3D USD,LU2385068320,https://www.ajbell.co.uk/market-research/LSE:XZUD,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+4427,Xtrackers Global Govt Bd ETF 5C USD,LU0908508731,https://www.ajbell.co.uk/market-research/LSE:XGGB,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+4447,Xtrackers US Treasuries ETF 2C GBP,LU2610432036,https://www.ajbell.co.uk/market-research/LSE:XUTG,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+4467,Xtrackers MSCI China ETF 1D GBP,LU2456436083,https://www.ajbell.co.uk/market-research/LSE:XCX7,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+4487,Xtrackers MSCI EMU ETF 2C GBP,LU1127516455,https://www.ajbell.co.uk/market-research/LSE:XD5S,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+4507,Xtrackers MSCI Genomic HC Inno ETF 1C GBP,IE000KD0BZ68,https://www.ajbell.co.uk/market-research/LSE:XGES,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+4527,Xtrackers MSCI Japan ESG ETF 1C GBP,IE00BG36TC12,https://www.ajbell.co.uk/market-research/LSE:XESJ,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+4547,Xtrackers MSCI Pacific ex JP Scrn ETF 1C,LU0322252338,https://www.ajbell.co.uk/market-research/LSE:XPXD,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+4567,Xtrackers MSCI USA Con Staples ETF 1D GBP,IE00BGQYRQ28,https://www.ajbell.co.uk/market-research/LSE:XSCS,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP, Regular investment and Dividend reinvestment",ETF
+4587,Xtrackers MSCI USA Swap II ETF 1D USD,IE000FW16TX1,https://www.ajbell.co.uk/market-research/LSE:USOA.L,This share can be held in a Dealing account,ETF
+4607,Xtrackers MSCI World ex USA 1D,IE000Z0FC0G5,https://www.ajbell.co.uk/market-research/LSE:EXU1,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+4627,Xtrackers MSCI World Quality ESG ETF 1C,IE0003NQ0IY5,https://www.ajbell.co.uk/market-research/LSE:XWEQ,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
+4647,Xtrackers MSCI World Value ESG ETF 1C GBP,IE000LAUZQT6,https://www.ajbell.co.uk/market-research/LSE:XWVS,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+4667,Xtrackers S&P 500 EW ETF 1C,IE00BLNMYC90,https://www.ajbell.co.uk/market-research/LSE:XDEW,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+4687,Xtrackers S&P 500 ETF 4D USD,IE000UP2BIZ9,https://www.ajbell.co.uk/market-research/LSE:X5SP.L,This share can be held in a Dealing account,ETF
+4707,Xtrackers USD Corporate Bond ETF 1D,IE00BZ036H21,https://www.ajbell.co.uk/market-research/LSE:XDGU,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA and SIPP",ETF
+4727,YieldMax Fut of Dfnc Opt Inc ETF $ Acc GBP,IE000TAA0GK0,https://www.ajbell.co.uk/market-research/LSE:NATI,"This share can be held in a Dealing account, Stocks and shares ISA, Lifetime ISA, JISA, SIPP and Dividend reinvestment",ETF
